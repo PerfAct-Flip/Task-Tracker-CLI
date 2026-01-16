@@ -17,7 +17,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed (version 16 or highe
 
 ### 2. Clone the Repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/task-tracker-cli.git](https://github.com/YOUR_USERNAME/task-tracker-cli.git)
+git clone [https://github.com/PerfAct-Flip/Task-Tracker-CLI.git](https://github.com/PerfAct-Flip/Task-Tracker-CLI.git)
 cd task-tracker-cli
 ```
 ### 3. Install Globally
