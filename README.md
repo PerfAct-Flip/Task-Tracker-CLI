@@ -1,4 +1,4 @@
-# Task Tracker CLI 🚀
+# Task Tracker CLI
 
 A lightweight, efficient command-line interface (CLI) tool to manage your tasks. Built using **Node.js**, this tool persists your data in a JSON file and can be accessed globally from any terminal window.
 
