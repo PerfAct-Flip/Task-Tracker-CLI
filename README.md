@@ -32,16 +32,16 @@ Use the npm link command to make the task keyword available everywhere on your s
 You can run the tool by typing `task` followed by an action.
 
 **Commands**
-| Action         | Syntax                        | Example                           |   |   |
-|----------------|-------------------------------|-----------------------------------|---|---|
-| Add            | task add "<description>"      | task add "Buy groceries"          |   |   |
-| Update         | task update <id> "<new desc>" | task update 1 "Buy milk and eggs" |   |   |
-| Delete         | task del <id>                 | task del 1                        |   |   |
-| List All       | task list                     | task list                         |   |   |
-| List by Status | task list <status>            | task list done                    |   |   |
-| Mark Status    | task mark <id> <status>       | task mark 1 in-progress           |   |   |
-| Clear All      | task clear                    | task clear                        |   |   |
-| Help           | task help                     | task help                         |   |   |
+| Action         | Syntax                        | Example                           |   
+|----------------|-------------------------------|-----------------------------------|
+| Add            | task add "<description>"      | task add "Buy groceries"          |
+| Update         | task update <id> "<new desc>" | task update 1 "Buy milk and eggs" |
+| Delete         | task del <id>                 | task del 1                        |
+| List All       | task list                     | task list                         | 
+| List by Status | task list <status>            | task list done                    |
+| Mark Status    | task mark <id> <status>       | task mark 1 in-progress           |
+| Clear All      | task clear                    | task clear                        |
+| Help           | task help                     | task help                         | 
 
 
 **Supported Statuses**:
