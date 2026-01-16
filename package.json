@@ -1,0 +1,15 @@
+{
+  "name": "taskcli",
+  "version": "1.0.0",
+  "description": "A simple CLI for managing tasks",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "TaskCLI.js",
+  "bin": {
+    "task": "./TaskCLI.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
